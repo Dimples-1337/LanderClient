@@ -1,9 +1,10 @@
 # Lander Client by RuoChen
 > 现已更名为Arctic.<br>
-> Dumped by Dimples#1337
+> Dumped by Dimples#1337<br>
+> ![dimples#1337](imgs/dimples.gif)
 
 # Bilibili Banned
-> ![enjoy ban](imgs/banned.png)
+> ![enjoy ban](imgs/banned.png)<br>
 > 对你狗叫的家园说再见~
 
 # 👁️👁️
@@ -14,4 +15,4 @@
 > 那是我在看着你<br>
 > 我会一直看着你<br>
 > 我不会干什么<br>
-> 我只是喜欢看着你而已    
+> 我只是喜欢看着你而已
